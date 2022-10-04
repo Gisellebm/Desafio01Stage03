@@ -12,7 +12,6 @@ Foi desenvolvido um Formulário de nível intermediário como Desafio 01
 
 - HTML
 - CSS
-- Javascript
 - Git e Github
 
 ## Contato
